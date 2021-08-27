@@ -1,10 +1,10 @@
 body{
-    background-color: #012d01;
+    background-color:#00bfd4;
     color: white;
     margin: 0%
 }
 #eco{
-    color: greenyellow;
+    color? blue;
     text-align: center;
     font-size: 3.5rem;
     padding-top: 20px
@@ -12,12 +12,12 @@ body{
 .titulo{
     color: darkolivegreen;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
 }
 .equipe{
-    color: greenyellow;
+    color: black;
     text-align: center;
-    font-family: Terminus;
+    font-family: merriweather;
     font-size: 2rem;
 }
 #logo{
@@ -30,3 +30,4 @@ body{
     font-size: 25px;
 }
 © 2021 GitHub, Inc.
+
